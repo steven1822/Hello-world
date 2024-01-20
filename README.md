@@ -1,3 +1,3 @@
 # Hello-world
-This will print out "Hello World"
-I am from Pittsburgh Pa
+This will print out "Welcome to CMPSC 221"
+
